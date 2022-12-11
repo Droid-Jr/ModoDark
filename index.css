@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: rgb(209, 209, 209);
+    background-color: #ffff;
 }
 
 
@@ -118,19 +118,21 @@ body.darkmode{
 body.darkmode h1{
     color:white;
 }
+
+
 body.darkmode p{
     color:white;
 }
 
 body.darkmode header{
-    background-color: rgba(230, 230, 230, 0.664);
+    background-color: rgba(230, 230, 230, 0.932);
     color: black;
 }
 
 body.darkmode a{
-    
     color: black;
 }
+
 body.darkmode button{
     border: none;
     

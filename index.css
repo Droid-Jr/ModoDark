@@ -113,57 +113,69 @@ footer{
 
 
 body.darkmode{
-    background-color:rgb(23, 23, 23)
+    background-color:rgb(23, 23, 23);
+    transition: 2s ease;
 }
 body.darkmode h1{
     color:white;
+    transition: 2s ease;
 }
 
 
 body.darkmode p{
     color:white;
+    transition: 2s ease;
 }
 
 body.darkmode header{
     background-color: rgba(230, 230, 230, 0.932);
     color: black;
+    transition: 2s ease;
 }
 
 body.darkmode a{
     color: black;
+    transition: 2s ease;
 }
 
 body.darkmode button{
     border: none;
+    transition: 2s ease;
     
     color: black;
 }
 body.darkmode button:hover{
     border: solid 2px black;
+    transition: 2s ease;
 
 }
 
 body.darkmode footer{
     background-color: rgba(88, 88, 88, 0.541);
+    transition: 2s ease;
 
 }
 
 body.darkmode img{
     border-bottom: solid 2px rgb(252, 252, 252);
+    transition: 2s ease;
 
 }
 
 body.darkmode .anime{
     border: solid 1px rgb(252, 252, 252);
+    transition: 2s ease;
 
 }
 body.darkmode .info{
     border: solid 1px rgb(252, 252, 252);
+    transition: 2s ease;
 
 }
 
 body.darkmode .footer{
     border: solid 1px rgb(252, 252, 252);
+    transition: 2s ease;
 
 }
 
